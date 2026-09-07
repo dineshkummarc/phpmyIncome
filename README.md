@@ -1,6 +1,6 @@
 <a target="_blank" href="http://pepper.technalatus.com"><img src="https://travis-ci.com/alshoja/Income-Expense-Manager.svg?branch=master"/></a>
 # Income Expense Manager
-The Project is about income expense management with minumum  using Codeignitor,it is basicaly developed for a resturant but can be customized for purposes.
+The Project is about income expense management with minumum  using CodeIgniter,it is basicaly developed for a resturant but can be customized for purposes.
 ## Getting Started
 
 Project is developed for a restuarant income expense management ,after developing the application some sort of problems occured in the client side so  am giving it as a opensource project customization pull requests are welcomed.
